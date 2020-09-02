@@ -1,0 +1,32 @@
+header {
+  background-image: url(../img/andri-klopfenstein-I0oPzzc6KT8-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+  padding-top: 66.7%;
+  opacity:0.8;
+  color: white;
+  margin: 0;
+}
+
+.profile {
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.profile > section > h1 {
+  font-weight: normal;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.container {
+  display: flex;
+}
+
+.width {
+  width: auto;
+}
+
